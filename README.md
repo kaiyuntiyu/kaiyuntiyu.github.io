@@ -6,13 +6,13 @@
 
 - [开云体育官网](https://kaiyubc.com) - 访问我们的官方网站，了解最新的体育赛事和优惠活动。
 - [全站版APP](https://kaiyuntiyu.github.io) - 下载我们的全站版APP，随时随地畅玩体育游戏。
-- [体育版APP](https://kaiyuntiyu.github.io) - 体验我们专为体育爱好者打造的体育版APP，提供更多精彩内容。
+- [体育版APP](https://kaiyun.pages.dev) - 体验我们专为体育爱好者打造的体育版APP，提供更多精彩内容。
 
 ## 注册与下载
 
 欢迎注册开云体育，开启您的体育之旅！
 
-1. 单击[注册链接](https://kaiyuntiyu.github.io)创建个人账户。
+1. 单击[注册链接](https://kaiyun.web.app)创建个人账户。
 2. 下载我们的APP，畅享更多游戏和功能。
 
 ## 赞助合作伙伴
