@@ -4,7 +4,7 @@
 
 ## 网址入口
 
-- [开云体育官网](https://kaiyubc.com) - 访问我们的官方网站，了解最新的体育赛事和优惠活动。
+- [开云体育官网](https://kaiyunbc.com) - 访问我们的官方网站，了解最新的体育赛事和优惠活动。
 - [全站版APP](https://kaiyuntiyu.github.io) - 下载我们的全站版APP，随时随地畅玩体育游戏。
 - [体育版APP](https://kaiyun.pages.dev) - 体验我们专为体育爱好者打造的体育版APP，提供更多精彩内容。
 
